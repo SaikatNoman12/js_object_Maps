@@ -8,7 +8,7 @@
 
 # Maps Declare
 const varName = new Map([ ]);
-
+## store data
 const varName = new Map([
     ['apple', 200],
     ['banana', 500],
