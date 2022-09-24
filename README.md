@@ -16,7 +16,7 @@ const varName = new Map([
     ['banana', 500],
 
     ['orange', 700]
-]) 
+]);
 
 # Maps all method
 set() , get() , delete() , clear() , has() 
