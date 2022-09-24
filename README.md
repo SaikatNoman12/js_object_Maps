@@ -5,3 +5,9 @@
 2. A Map remembers the original insertion order of the keys.
 
 3. A Map has a property that represents the size of the map.
+
+
+# Maps all method
+set() , get() , delete() , clear() , has() 
+
+forEach() , values() , keys() , entries()
