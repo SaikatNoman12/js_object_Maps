@@ -124,3 +124,22 @@ console.log(newMaps10.entries());
 const newMaps11 = new Map();
 
 console.log(newMaps11 instanceof Map);  // return true;
+
+
+/* === get object data type key; === */
+const newMaps12 = new Map();
+
+// declare object;
+const apple = { name: 'apple' };
+const banana = { name: 'banana' };
+
+// set object type data;
+newMaps12.set(apple, 200);
+newMaps12.set(banana, 500);
+
+// get object data type data. ;
+const getData = newMaps12.get(apple);
+
+// check output;
+console.log(getData);  // return 200
+
