@@ -10,7 +10,6 @@
 const varName = new Map([ ]);
 
 const varName = new Map([
-
     ['apple', 200],
     ['banana', 500],
     ['orange', 700]
