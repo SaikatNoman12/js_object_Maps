@@ -1,7 +1,7 @@
 # JavaScript Object Maps
 
-A Map holds key-value pairs where the keys can be any datatype.
+1. A Map holds key-value pairs where the keys can be any datatype.
 
-A Map remembers the original insertion order of the keys.
+2. A Map remembers the original insertion order of the keys.
 
-A Map has a property that represents the size of the map.
+3. A Map has a property that represents the size of the map.
